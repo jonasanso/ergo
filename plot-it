@@ -1,1 +1,1 @@
-jplot agents  wealth.mean+wealth.median wealth.min+wealth.max+wealth.sum
+jplot agents wealth.mean+wealth.median wealth.min+wealth.max+wealth.sum wealth.p10+wealth.p20+wealth.p30+wealth.p70+wealth.p80+wealth.p90+wealth.p95+wealth.p99+wealth.p995+wealth.p999
