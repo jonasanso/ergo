@@ -31,6 +31,7 @@ Install jplot https://github.com/rs/jplot
 - Original game: https://twitter.com/hulme_oliver/status/1139148255969906689
 - Ergodicity economics https://ergodicityeconomics.com/lecture-notes/
 - General ergodicity (broader than economics) - https://www.wikiwand.com/en/Ergodicity  
+- Clear contrast with https://www.wikiwand.com/en/Expected_utility_hypothesis 
 
 
 
