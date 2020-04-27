@@ -6,3 +6,4 @@ target/
 out/
 *.iml
 .bloop/
+.metals/
