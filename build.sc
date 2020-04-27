@@ -6,6 +6,8 @@ import sys.process._
 
 import mill.util.Ctx
 
+import $ivy.`com.lihaoyi::mill-contrib-bloop:0.6.1`
+
 object ergo extends ScalaModule with GraalVM {
   def scalaVersion = "2.13.1"
   override def ivyDeps = Agg(
