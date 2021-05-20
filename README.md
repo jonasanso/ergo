@@ -22,6 +22,9 @@ Win 50% of your current wealth for heads, lose 40% of your current wealth for ta
 out/ergo/native/dest/ergo -m multiplicative | ./plot-it
 ``` 
 
+![Screenshot 2021-05-20 at 17 03 16 (1)](https://user-images.githubusercontent.com/559817/119007778-d4694f80-b991-11eb-901e-97f030488649.png)
+
+
 ### Dependencies
 Install Mill http://www.lihaoyi.com/mill/
 Compiling it with Graal VM following the same approach as https://github.com/jonasanso/hello-world-scala-graalvm 
